@@ -1,2 +1,2 @@
-# hello-world
-my first repository
+# Learning Github
+make and commit changes.
